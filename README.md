@@ -12,4 +12,32 @@
 
 😄 Pronouns: he/his.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiGeloBomanuraghazra&show_icons=true&theme=transparent)
+<a href="https://github.com/GeloBom">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GeloBom&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GeloBom's GitHub Stats" />
+</a>
+
+<!--- Repositories Highlights -->
+
+<a href="https://github.com/GeloBom/dotfiles">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeloBom&repo=dotfiles&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/GeloBom/LeetCode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeloBom&repo=LeetCode&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/GeloBom/acn_r">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeloBom&repo=acn_r&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/GeloBom/BusinessCardRayTracer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeloBom&repo=BusinessCardRayTracer&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/GeloBom/Carpilator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeloBom&repo=Carpilator&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/GeloBom/Rech-a-Car.Core">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GeloBom&repo=Rech-a-Car.Core&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
